@@ -12,9 +12,9 @@
         "litecoin",
         "scrypt"
     ],
-    "homepage": "https://github.com/bitcoinvote/node-stratum-pool",
+    "homepage": "https://github.com/tviho/node-stratum-pool",
     "bugs": {
-        "url": "https://github.com/bitcoinvote/node-stratum-pool/issues"
+        "url": "https://github.com/tviho/node-stratum-pool/issues"
     },
     "license": "GPL-2.0",
     "author": "Matthew Little",
@@ -25,7 +25,7 @@
     "main": "lib/index.js",
     "repository": {
         "type": "git",
-        "url": "https://github.com/bitcoinvote/node-stratum-pool.git"
+        "url": "https://github.com/tviho/node-stratum-pool.git"
     },
     "dependencies": {
         "multi-hashing": "git://github.com/bitcoinvote/node-multi-hashing.git",
